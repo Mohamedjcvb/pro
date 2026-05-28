@@ -1,0 +1,23 @@
+{
+    "8262280868": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": true,
+            "step": "interval",
+            "templates": [
+                {
+                    "text": "خرة بل نسوان"
+                },
+                {
+                    "text": "شغل الكويتي"
+                }
+            ],
+            "interval": null,
+            "groups": [],
+            "last_msg_id": [
+                21854
+            ]
+        }
+    }
+}
