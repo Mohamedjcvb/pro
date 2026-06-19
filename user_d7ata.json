@@ -3,7 +3,7 @@
         "templates": {},
         "known_chats": {},
         "broadcasting": {
-            "active": true,
+            "active": false,
             "step": "interval",
             "templates": [
                 {
