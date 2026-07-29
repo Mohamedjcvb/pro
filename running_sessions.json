@@ -1,5 +1,5 @@
 {
-    "next_id": 6,
+    "next_id": 9,
     "sessions": [
         {
             "file_name": "sessions_9647748011688.session",
@@ -28,6 +28,27 @@
             "temporary": false,
             "user_id": 8262280868,
             "id": 5
+        },
+        {
+            "file_name": "sessions_201557836851.session",
+            "start_time": "2026-07-29T13:04:12.005993+03:00",
+            "temporary": false,
+            "user_id": 8262280868,
+            "id": 6
+        },
+        {
+            "file_name": "sessions_9647732629787.session",
+            "start_time": "2026-07-29T13:05:44.344805+03:00",
+            "temporary": false,
+            "user_id": 8262280868,
+            "id": 7
+        },
+        {
+            "file_name": "sessions_9647732629787.session",
+            "start_time": "2026-07-29T13:06:08.248428+03:00",
+            "temporary": false,
+            "user_id": 8262280868,
+            "id": 8
         }
     ]
 }

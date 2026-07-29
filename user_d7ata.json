@@ -4,19 +4,18 @@
         "known_chats": {},
         "broadcasting": {
             "active": false,
-            "step": "interval",
+            "step": "template_pattern",
             "templates": [
                 {
-                    "text": "خرة بل نسوان"
-                },
-                {
-                    "text": "شغل الكويتي"
+                    "text": "❤️🙇🏻🙆🏻"
                 }
             ],
-            "interval": null,
-            "groups": [],
+            "interval": 50,
+            "groups": [
+                "channel:3989582285"
+            ],
             "last_msg_id": [
-                21854
+                45793
             ]
         }
     }
