@@ -1,7 +1,9 @@
 {
     "8262280868": {
         "templates": {},
-        "known_chats": {},
+        "known_chats": {
+            "3878001328": "𝗧𝗢𝗕 𝗤𝗔𝗜𝗘𝗗 •"
+        },
         "broadcasting": {
             "active": false,
             "step": "template_pattern",
@@ -16,6 +18,23 @@
             ],
             "last_msg_id": [
                 45793
+            ]
+        },
+        "scheduling": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "🙇🏻"
+                }
+            ],
+            "interval": 40,
+            "count": 100,
+            "last_msg_id": [
+                1438
+            ],
+            "here_groups": [
+                "3878001328"
             ]
         }
     }
