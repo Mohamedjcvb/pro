@@ -21,17 +21,17 @@
             ]
         },
         "scheduling": {
-            "active": false,
+            "active": true,
             "step": "awaiting_here",
             "templates": [
                 {
-                    "text": "🙇🏻"
+                    "text": "🌚🌝"
                 }
             ],
-            "interval": 40,
+            "interval": 50,
             "count": 100,
             "last_msg_id": [
-                1438
+                1469
             ],
             "here_groups": [
                 "3878001328"
