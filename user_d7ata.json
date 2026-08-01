@@ -25,13 +25,13 @@
             "step": "awaiting_here",
             "templates": [
                 {
-                    "text": "🌚🌝"
+                    "text": "- كل قصائد الحب تبدو ناقصة دونك."
                 }
             ],
             "interval": 50,
             "count": 100,
             "last_msg_id": [
-                1469
+                1485
             ],
             "here_groups": [
                 "3878001328"
